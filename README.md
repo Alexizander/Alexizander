@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alexizander
-- 👀 I’m interested in ... trabalhar com programação e desenvolvimento de jogos;
-- 🌱 I’m currently learning ... tudo;
-- 💞️ I’m looking to collaborate on ... assets para jogos;
+- 👀 I’m interested in ... working with programming and game development;
+- 🌱 I’m currently learning ... html, css, js, c#;
+- 💞️ I’m looking to collaborate on ... fixing bugs and game asset;
 - 📫 How to reach me ... twitter: @dalexizander.
 
 <!---
