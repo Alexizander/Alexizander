@@ -23,16 +23,20 @@ also you shouldn't be reading this 😏
 --->
 
   ##
-  ### >Contact <a href="#"><img height="3cm" src="https://user-images.githubusercontent.com/71057756/147911278-30e8d9ee-ab33-4d87-9b27-7076a9153f6c.gif"></a>
+  ### >Contact <a href="#"><img height="3cm" src="https://user-images.githubusercontent.com/71057756/147914812-c8e319ae-0367-478a-9389-96817c0d3a42.gif"></a>
 
   <div>
   <a href="https://www.facebook.com/dalexizander/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://twitter.com/dalexizandra"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UCOdXRQy1qN0KZ9hgmDYI1eA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://www.instagram.com/thedeceptionbando/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.reddit.com/user/AlexizandersProtokol"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>![147911278-30e8d9ee-ab33-4d87-9b27-7076a9153f6c](https://user-images.githubusercontent.com/71057756/147913370-282bfa55-8c06-42fb-9533-71ba97bb1132.gif)
+  <a href="https://www.reddit.com/user/AlexizandersProtokol"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 
   <span title="check my songs!">
   <a href="https://open.spotify.com/artist/4YuKwCUh92gP8Vh3DYG86U"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   </span>
   </div>
+
+![147914812-c8e319ae-0367-478a-9389-96817c0d3a42](https://user-images.githubusercontent.com/71057756/147914871-e2e12e13-a237-4ad3-8f75-d42753843ad9.gif)![147914812-c8e319ae-0367-478a-9389-96817c0d3a42](https://user-images.githubusercontent.com/71057756/147914875-3d78e01f-ff3c-4315-95fb-8302205a7913.gif)![147914812-c8e319ae-0367-478a-9389-96817c0d3a42](https://user-images.githubusercontent.com/71057756/147914879-c6ffb234-412e-4f40-a2c3-c2f15912fa92.gif)
+
+
