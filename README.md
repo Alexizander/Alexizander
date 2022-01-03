@@ -36,7 +36,3 @@ also you shouldn't be reading this 😏
   <a href="https://open.spotify.com/artist/4YuKwCUh92gP8Vh3DYG86U"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   </span>
   </div>
-
-![147914812-c8e319ae-0367-478a-9389-96817c0d3a42](https://user-images.githubusercontent.com/71057756/147914871-e2e12e13-a237-4ad3-8f75-d42753843ad9.gif)![147914812-c8e319ae-0367-478a-9389-96817c0d3a42](https://user-images.githubusercontent.com/71057756/147914875-3d78e01f-ff3c-4315-95fb-8302205a7913.gif)![147914812-c8e319ae-0367-478a-9389-96817c0d3a42](https://user-images.githubusercontent.com/71057756/147914879-c6ffb234-412e-4f40-a2c3-c2f15912fa92.gif)
-
-
