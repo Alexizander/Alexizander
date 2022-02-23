@@ -22,20 +22,20 @@
 }
 
 .matrix:nth-child(odd) {
-    background: linear-gradient(to right, rgb(0, 0, 0), green 100%, rgba(0, 0, 0, 0));;
-    background-size: 80% 40%;
-    animation: matrixrain 5s linear infinite;
-    -webkit-background-clip: text;
-            background-clip: text;
-            -webkit-text-fill-color: transparent;    
+  background: linear-gradient(to right, rgb(0, 0, 0), green 100%, rgba(0, 0, 0, 0));
+  animation: matrixrain 5s linear infinite;
+  -webkit-text-fill-color: transparent; 
+  background-size: 80% 40%;
+  -webkit-background-clip: text;
+  background-clip: text;   
 }
 .matrix:nth-child(even) {
-    background: linear-gradient(to left, rgb(0, 0, 0), green 100%, rgba(0, 0, 0, 0));;
-    background-size: 80% 40%;
-    animation: matrixrain 5s linear infinite reverse;
-    -webkit-background-clip: text;
-            background-clip: text;
-            -webkit-text-fill-color: transparent;   
+  background: linear-gradient(to left, rgb(0, 0, 0), green 100%, rgba(0, 0, 0, 0));
+  animation: matrixrain 5s linear infinite reverse;
+  -webkit-text-fill-color: transparent;
+  background-size: 80% 40%;
+  -webkit-background-clip: text;
+  background-clip: text;    
 }
 
 #raintitle {
@@ -64,11 +64,12 @@ fieldset {
 
 body {
   font-family: 'Courier New', Courier, monospace;
-  margin-left: 7%;
   background-color: black;
   background-image: linear-gradient(to bottom, black, black, black, rgb(0, 24, 0));
   background-attachment: fixed;
   color: rgb(0, 189, 142);
+  display: grid;
+  justify-items: center;
 }
 .back1 {
   font-weight: 900;
@@ -94,7 +95,6 @@ input, select, textarea, button {
 }
 
 .group {
-  margin-left: 29%;
   margin-top: 2%;
   justify-content: center;
 }
@@ -133,11 +133,6 @@ fieldset.group .field {
   padding: 0.2em 0.6em;
   box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.219);
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.519);
-  position: absolute;
-  top: 90%;
-  left: 50%;
-  margin-right: 95%;
-  transform: translate(-40% -50%);
 }
 
 .button:hover {

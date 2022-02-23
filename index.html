@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
 
 
 
@@ -8,18 +8,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cadastro amaldiçoado</title>
     <link rel="icon" type="image/x-icon" href="./favicon.ico">
-    <link rel="stylesheet" type="text/css" href="estileira.css">
+    <link rel="stylesheet" type="text/css" href="./styles/style.css">
     
 </head>
 
 <body>
 
     <div class="field">
-        <h1 id="raintitle">Cadastro f!@#$tico</h1>
+        <h1 id="raintitle">Cadastro</h1>
         <h3 class="matrix">Formulário de dados etc e tal.</h3>
         <h3 class="matrix">Insira seus dados para continuar.</h3>
         <h3 class="matrix">um oferecimento bolha dev do tuiter</h3><br><br>
-        <h3 id="date" class="matrix"></p>
+        <p id="date" class="matrix"></p>
         <br>
     </div>
 
@@ -33,6 +33,11 @@
             <div class="field">
                 <label for="sobrenome"><strong>Sobrenome</strong></label>
                 <input type="text" name="sobrenome" id="sobrenome" required>
+            </div>
+
+            <div class="field">
+                <label for="genero"><strong>Gênero</strong></label>
+                <input type="text" name="genero" id="genero">
             </div>
         </fieldset>
 
@@ -89,8 +94,8 @@
                 <label for="tecnologia4">PHP</label>
                 <input type="checkbox" id="tecnologia5" name="tecnologia5" value="C#">
                 <label for="tecnologia5">C#</label>
-                <input type="checkbox" id="tecnologia6" name="tecnologia6" value="PHP">
-                <label for="tecnologia6">PHP</label>
+                <input type="checkbox" id="tecnologia6" name="tecnologia6" value="Python">
+                <label for="tecnologia6">Python</label>
                 <input type="checkbox" id="tecnologia7" name="tecnologia7" value="Java">
                 <label for="tecnologia7">Java</label>
             </div>
@@ -102,7 +107,7 @@
               <textarea row="6" style="width: 26em" id="experiencia" name="experiencia"></textarea>
           </div>
         </fieldset>
-        <button class="button" type="submit">Concluído</button>
+        <button class="button" type="submit" onsubmit="baixarArquivo()">Concluído</button>
     </form>
 
     <pre>
@@ -142,5 +147,5 @@ ____________________ ________        ____._______________________________
     </pre>
 
 </body>
-<script src="./javaescrito.js"></script>
+<script src="./scripts/javascript/script.js"></script>
 </html>
