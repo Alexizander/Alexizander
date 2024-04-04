@@ -1,6 +1,6 @@
-# <a href="https://pt.wikipedia.org/wiki/Matrix"><span title="it's barely visible, but that's that matrix code rain."><img height="30cm" src="https://valanm.github.io/example/img/about/matrix.gif"></span></a> >Hi, I’m <span title="they call me Gabriel Santos despite me not liking this name.">Alexizander.</span> 
-- interested in > <span title="broke, need money">programming jobs and game development;</span>
-- currently learning > <span title="for now struggling with all">HTML, CSS, JS, C#, Fullstack;</span>
+# <a href="https://pt.wikipedia.org/wiki/Matrix"><span title="it's barely visible, but that's that matrix code rain."><img height="30cm" src="https://valanm.github.io/example/img/about/matrix.gif"></span></a> >Hi, I’m <span title="register name">Gabriel Santos.</span> 
+- interested in > <span title="">programming jobs, game development, open-source collaboration;</span>
+- currently learning > <span title="for now struggling with all">Web dev, JS, C#, Fullstack;</span>
 - looking to collaborate on > game asset, web dev and <span title="i can help you!">fixing bugs;</span>
 - how to reach me > everything below.
 ##
@@ -20,6 +20,7 @@
 Alexizander/Alexizander is a common repository because it is duh.
 You can' click the Preview link to take a look at your changes.
 listen to Kalaganozhaka on Spotify
+  i can see you go away
 --->
 
   ##
